@@ -9,8 +9,8 @@ I like building stuff and Coding.
 [![An image of @bhimanshu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhimanshu)](https://holopin.io/@bhimanshu)
 
 ## Competetive Programming
-Codeforces: https://codeforces.com/profile/bhimanshu7274
-Atcoder: https://atcoder.jp/users/wicked
+Codeforces: https://codeforces.com/profile/bhimanshu7274  
+Atcoder: https://atcoder.jp/users/wicked  
 Codechef: https://www.codechef.com/users/wicked01
 
 <!--
