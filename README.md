@@ -2,7 +2,7 @@
 
 Hi, I'm Himanshu✌️
 
-I like building Applications.
+I like building stuff and Coding.
 
 
 ## Digital Badges
