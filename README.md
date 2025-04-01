@@ -1,19 +1,5 @@
-## About Me
-
-Hi, I'm Himanshu✌️
-
-I like building stuff and Coding.
-
-## Technologies and Languages
-
-
 ## Digital Badges
 [![An image of @bhimanshu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhimanshu)](https://holopin.io/@bhimanshu)
-
-## Competetive Programming
-Codeforces: https://codeforces.com/profile/bhimanshu7274  
-Atcoder: https://atcoder.jp/users/wicked  
-Codechef: https://www.codechef.com/users/wicked01
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">I love building Stuff</h3>
 
