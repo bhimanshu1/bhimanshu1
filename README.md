@@ -5,6 +5,8 @@
 ## Digital Badges
 [![An image of @bhimanshu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhimanshu)](https://holopin.io/@bhimanshu)
 
+https://www.cloudskillsboost.google/public_profiles/fa730d85-8e23-407f-8254-675c22ab404a/badges/6489730
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/barad himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barad himanshu" height="30" width="40" /></a>
