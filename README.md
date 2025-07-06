@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">I love building Stuff</h3>
-
-- 🌱 I’m currently learning **React js**
 ## Digital Badges
 [![An image of @bhimanshu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhimanshu)](https://holopin.io/@bhimanshu)
 
