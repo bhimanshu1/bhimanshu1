@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 ## Digital Badges
+
 [![Holopin Badges](https://holopin.me/bhimanshu1/holopin-badge.svg)](https://holopin.me/bhimanshu1)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
