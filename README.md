@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 ## Digital Badges
-[![An image of @bhimanshu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhimanshu)](https://holopin.io/@bhimanshu)
+[![Holopin Badges](https://holopin.me/bhimanshu1/holopin-badge.svg)](https://holopin.me/bhimanshu1)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/barad himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barad himanshu" height="30" width="40" /></a>
